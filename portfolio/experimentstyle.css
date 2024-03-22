@@ -1,0 +1,21 @@
+#aboutmediv {width:40rem;
+height:22rem;
+border:1rem solid black;
+  display:grid;
+      grid-auto-flow: :column-dense;
+        grid-template-columns:20rem 20rem;
+          grid-template-rows:11rem 11rem;}
+
+    #b1{
+
+    }
+    #b2{border-right:1rem orange solid;
+
+    }
+    #b3{border-bottom:1rem orange solid;;
+
+    }
+    #b4{border-bottom:1rem orange solid;
+      border-right:1rem orange solid;
+
+    }
